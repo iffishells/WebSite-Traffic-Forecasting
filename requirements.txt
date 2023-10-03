@@ -129,7 +129,7 @@ tsdownsample==0.1.2
 typing_extensions==4.7.1
 tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1680081134351/work
 tzlocal==4.3.1
-urllib3==2.0.4
+urllib3==2.0.6
 validators==0.21.2
 watchdog==3.0.0
 Werkzeug==2.2.3
