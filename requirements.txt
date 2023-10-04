@@ -77,7 +77,7 @@ orjson==3.9.5
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1681337016113/work
 pandas @ file:///home/conda/feedstock_root/build_artifacts/pandas_1688740512823/work
 patsy==0.5.3
-Pillow==9.5.0
+Pillow==10.0.1
 plotly==5.16.1
 plotly-resampler==0.9.1
 pmdarima==2.0.3
