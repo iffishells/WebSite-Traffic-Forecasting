@@ -83,7 +83,7 @@ plotly-resampler==0.9.1
 pmdarima==2.0.3
 prophet @ file:///croot/prophet_1689928096059/work
 protobuf==4.24.1
-pyarrow==12.0.1
+pyarrow==14.0.1
 pydeck==0.8.0
 Pygments==2.16.1
 PyMeeus @ file:///home/conda/feedstock_root/build_artifacts/pymeeus_1670868433998/work
